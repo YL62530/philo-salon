@@ -1,5 +1,9 @@
-export default function SpreadableSuggestions({ report }) {
-  const { spreadableSuggestions } = report;
+export default function SpreadableSuggestions({
+  report,
+  generatedSpreadableSuggestions,
+}) {
+  const spreadable =
+    generatedSpreadableSuggestions || report.spreadableSuggestions;
 
   return (
     <section className="max-w-3xl mx-auto px-6 py-12">
@@ -16,7 +20,7 @@ export default function SpreadableSuggestions({ report }) {
             标题方向
           </h3>
           <ul className="space-y-3">
-            {spreadableSuggestions.titles.map((t, idx) => (
+            {spreadable.titles.map((t, idx) => (
               <li
                 key={idx}
                 className="text-sm text-ink leading-relaxed p-3 rounded-lg bg-white/50 border border-parchment-300/50 hover:border-caramel/40 transition-colors cursor-default"
@@ -32,7 +36,7 @@ export default function SpreadableSuggestions({ report }) {
             封面句方向
           </h3>
           <ul className="space-y-3">
-            {spreadableSuggestions.hooks.map((h, idx) => (
+            {spreadable.hooks.map((h, idx) => (
               <li
                 key={idx}
                 className="text-sm text-ink leading-relaxed p-3 rounded-lg bg-white/50 border border-parchment-300/50 hover:border-caramel/40 transition-colors cursor-default"

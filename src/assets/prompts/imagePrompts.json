@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "project": "PhiloSalon",
+    "styleKey": "warm sepia, vintage study room, old paper texture, soft candle light, philosophical salon, editorial illustration, painterly but clean, elegant humanities atmosphere",
+    "tone": "muted earthy palette of parchment, beige, caramel, coffee, and ink. No cyberpunk, no high saturation, no modern tech, no photorealism.",
+    "version": "1.0"
+  },
+  "portraits": [
+    {
+      "filename": "socrates.jpg",
+      "purpose": "Thinker portrait for Socrates card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Socrates in an ancient Greek agora setting, weathered expressive face with short curly hair and short beard, wearing a simple draped chiton, gesturing as if in mid-dialogue, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "plato.jpg",
+      "purpose": "Thinker portrait for Plato card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Plato pointing upward toward the realm of forms, refined classical features with broad forehead, flowing white robes, scrolls and geometric shadows in the background, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "aristotle.jpg",
+      "purpose": "Thinker portrait for Aristotle card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Aristotle with hand extended toward the earth, observant analytical expression, detailed classical attire, botanical elements and scrolls suggesting empirical study, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "zhuangzi.jpg",
+      "purpose": "Thinker portrait for Zhuangzi card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Zhuangzi in flowing wide-sleeved traditional Hanfu, serene contemplative expression with subtle playful wisdom, bamboo grove and misty water in background, butterfly motif subtly integrated, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "confucius.jpg",
+      "purpose": "Thinker portrait for Confucius card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Confucius as a venerable teacher with long flowing beard and traditional Ruqun robes, seated with bamboo scrolls, gentle authoritative expression, apricot tree shade in background, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "kant.jpg",
+      "purpose": "Thinker portrait for Kant card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Immanuel Kant in 18th-century Prussian scholar coat with cravat, wire-rimmed spectacles, rigorous thoughtful expression, orderly study with clock and books in warm candlelight, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "nietzsche.jpg",
+      "purpose": "Thinker portrait for Nietzsche card and dialogue header",
+      "prompt": "Stylized philosophical portrait illustration of Friedrich Nietzsche with iconic bushy mustache and piercing intense gaze, dramatic chiaroscuro lighting, mountainous abyss silhouette in background, Victorian-era collar and coat, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "benjamin.jpg",
+      "purpose": "Thinker portrait for Benjamin card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Walter Benjamin, melancholic intellectual with round spectacles and disheveled hair, surrounded by towering books and Parisian arcade reflections, early 20th-century European study, foggy window light, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "levinas.jpg",
+      "purpose": "Thinker portrait for Levinas card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Emmanuel Levinas, gentle deeply thoughtful face with kind eyes, traditional Jewish scholarly elements, open Talmud on desk, face-to-face ethical encounter suggested through mirror or window motif, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "deleuze.jpg",
+      "purpose": "Thinker portrait for Deleuze card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Gilles Deleuze, wrinkled weathered face full of intense conceptual energy, casually holding pipe, rhizome and abstract fold patterns subtly woven into background, mid-century French study with piled papers, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "foucault.jpg",
+      "purpose": "Thinker portrait for Foucault card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Michel Foucault with shaved head and penetrating sharp gaze, panopticon geometric shadows cast across face, leather jacket collar, 1970s intellectual Paris atmosphere, archives and dossiers in background, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "beauvoir.jpg",
+      "purpose": "Thinker portrait for Beauvoir card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Simone de Beauvoir with intelligent determined expression, Parisian Left Bank cafe atmosphere, elegant 1950s intellectual fashion, notebook and pen visible, soft window light from Saint-Germain street, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    },
+    {
+      "filename": "habermas.jpg",
+      "purpose": "Thinker portrait for Habermas card and dialogue header",
+      "prompt": "Symbolic portrait inspired by Jurgen Habermas with mild scholarly demeanor, modern German study with newspaper and coffee cup suggesting public sphere, bookshelves of critical theory behind, warm afternoon light through curtains, warm sepia tones, vintage study room atmosphere, soft candlelight glow, old paper texture background, philosophical salon setting, editorial illustration style, painterly yet clean linework, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, classical composition, gentle shadows, timeless contemplative mood",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, photographic likeness",
+      "suggestedSize": "512x768"
+    }
+  ],
+  "ambience": [
+    {
+      "filename": "salon-desk.jpg",
+      "purpose": "Hero section background - philosopher's desk close-up",
+      "prompt": "Warm sepia-toned vintage philosopher's study desk, cluttered with inkwell, quill pen, scattered handwritten letters, wax seal, open leather-bound book, brass candle holder with soft candlelight glow, old paper texture surface, editorial illustration style, painterly but clean, elegant humanities atmosphere, muted earthy palette of parchment beige caramel coffee ink, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    },
+    {
+      "filename": "philosopher-salon-room.jpg",
+      "purpose": "Full salon room panoramic atmosphere",
+      "prompt": "Wide atmospheric view of a vintage philosophical salon room, tall bookshelves filled with antique books, worn leather armchairs around a small wooden table, large window with heavy curtains letting in warm golden afternoon light, Persian rug, oil paintings on walls, soft sepia tones, editorial illustration style, painterly but clean, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1280x720"
+    },
+    {
+      "filename": "old-books-and-letter.jpg",
+      "purpose": "Decorative still life for result sections",
+      "prompt": "Close-up arrangement of aged leather-bound books stacked with faded handwritten letters and envelopes, dried flower bookmark, brass reading glasses, wax seal stamp, warm candlelit still life, rich sepia and caramel tones, editorial illustration style, painterly but clean, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    }
+  ],
+  "textures": [
+    {
+      "filename": "paper-texture.png",
+      "purpose": "Global background paper texture, tileable",
+      "prompt": "Seamless old paper texture, subtle parchment grain, warm beige and cream tones, faint coffee and ink stains, slight wrinkle patterns, minimal noise, tileable background, no distinct objects, purely textural, editorial illustration style, muted earthy palette",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, objects, figures, patterns, motifs, logos, text, letters, symbols",
+      "suggestedSize": "1024x1024"
+    },
+    {
+      "filename": "manuscript-texture.png",
+      "purpose": "Manuscript writing surface texture, tileable",
+      "prompt": "Seamless vintage manuscript writing surface texture, extremely faint horizontal guide lines, subtle feather quill ink bleed marks, warm ivory and parchment gradient, aged paper edges feel, tileable pattern, minimal and elegant, no distinct objects, purely textural, muted earthy palette",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, objects, figures, patterns, motifs, logos, text, letters, symbols",
+      "suggestedSize": "1024x1024"
+    }
+  ],
+  "rooms": [
+    {
+      "filename": "classical-room.jpg",
+      "purpose": "Room 01 Classical Inquiry atmosphere header",
+      "prompt": "Atmospheric vintage classical philosophy room, Greek column silhouettes, stone bust on pedestal, scrolls in ceramic vessels, warm amber light, Mediterranean sepia tones, editorial illustration, painterly but clean, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    },
+    {
+      "filename": "chinese-thought-room.jpg",
+      "purpose": "Room 02 Chinese Thought atmosphere header",
+      "prompt": "Serene traditional Chinese scholar's studio, bamboo screen window casting shadow, ink stone and brush on low table, calligraphy scroll on wall, warm muted ink-wash tones, soft natural light, Eastern philosophical atmosphere, editorial illustration, painterly but clean, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    },
+    {
+      "filename": "modern-ethics-room.jpg",
+      "purpose": "Room 04 Modern Ethics atmosphere header",
+      "prompt": "Intimate modern ethics study room, wall-to-wall bookshelves with philosophical texts, single reading lamp casting warm pool of light, comfortable reading chair, 20th-century European study aesthetic, muted warm tones, editorial illustration, painterly but clean, elegant humanities atmosphere, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    },
+    {
+      "filename": "public-discussion-room.jpg",
+      "purpose": "Room 05 Public Discussion atmosphere header",
+      "prompt": "Warm vintage European cafe-salon for public discourse, round marble-top table with coffee cups, newspapers and notebooks, high ceiling with moldings, mirrors and wooden paneling, soft afternoon light, democratic philosophical atmosphere, editorial illustration, painterly but clean, elegant humanities atmosphere, muted earthy palette, subtle parchment grain, gentle shadows, no human figure",
+      "negativePrompt": "cyberpunk, neon colors, high saturation, modern technology, photorealistic, 3D render, CGI, futuristic, sci-fi, oversaturated bright colors, plastic look, glossy surface, sharp digital edges, hyperrealism, anime, cartoon, fluorescent lighting, contemporary office, minimalist white background, robotic, synthetic textures, human face, portrait",
+      "suggestedSize": "1024x768"
+    }
+  ]
+}

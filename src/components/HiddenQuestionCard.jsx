@@ -1,4 +1,10 @@
-export default function HiddenQuestionCard({ report }) {
+import { getTypeConfig } from "../data/contentTypes";
+
+export default function HiddenQuestionCard({ report, analysisResult }) {
+  const hiddenQuestions = analysisResult
+    ? getTypeConfig(analysisResult.primaryType).hiddenQuestions
+    : report.hiddenQuestions;
+
   return (
     <section className="max-w-3xl mx-auto px-6 py-12">
       <div className="mb-8">
@@ -12,7 +18,7 @@ export default function HiddenQuestionCard({ report }) {
       </div>
 
       <div className="grid sm:grid-cols-2 gap-4">
-        {report.hiddenQuestions.map((q, idx) => (
+        {hiddenQuestions.map((q, idx) => (
           <div
             key={idx}
             className="p-5 rounded-xl bg-white/50 border border-parchment-300/60 hover:border-caramel/40 transition-all"

@@ -1,5 +1,5 @@
-export default function PitfallChecklist({ report }) {
-  const { pitfalls } = report;
+export default function PitfallChecklist({ report, generatedPitfalls }) {
+  const pitfalls = generatedPitfalls || report.pitfalls;
 
   return (
     <section className="max-w-3xl mx-auto px-6 py-12">

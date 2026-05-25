@@ -1,5 +1,5 @@
-export default function WritingAdvice({ report }) {
-  const { writingAdvice } = report;
+export default function WritingAdvice({ report, generatedWritingAdvice }) {
+  const writingAdvice = generatedWritingAdvice || report.writingAdvice;
 
   return (
     <section className="max-w-3xl mx-auto px-6 py-12">
